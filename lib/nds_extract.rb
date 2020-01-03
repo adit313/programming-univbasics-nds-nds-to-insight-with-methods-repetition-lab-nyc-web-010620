@@ -53,6 +53,7 @@ def total_gross(source)
     total += lookup[list[i]]
     i+=1
 end
+return total
 end
 
 
